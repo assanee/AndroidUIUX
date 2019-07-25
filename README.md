@@ -28,7 +28,7 @@ Link : [https://github.com/knight-rider1609/MultiProgressBar](https://github.com
 ## FormView**
 Screen : 
 
-![image](FormView/mygif.gif);
+![image](image/FormView/mygif.gif);
 
 Link : [https://github.com/alimodares2003/FormView](https://github.com/alimodares2003/FormView)
 
